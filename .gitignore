@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+.idea/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Lock files
+uv.lock
+
+# Temporary and scratch files
+External Libraries/
+Scratches and Consoles/
+
+# Bytecode compiled files
+__pycache__/
